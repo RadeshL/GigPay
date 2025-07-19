@@ -1,16 +1,20 @@
-# projects_flutter
+# GigPay
 
-A new Flutter project.
+**GigPay** is a mobile app designed for freelancers to manage their payments, create professional invoices, and track income effortlessly. Built with **Flutter**, GigPay offers a smooth, experience for Android.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **Invoice Generation** – Create invoices with clients in seconds.
+- **Payment Tracking** – Monitor paid and unpaid invoices.
+- **Income Overview** – Visualize and manage your earnings.
+- **Lightweight & Fast** – Optimized for performance with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** Dart
+- **Platforms:** Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
